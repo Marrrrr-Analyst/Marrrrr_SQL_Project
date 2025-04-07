@@ -55,8 +55,8 @@ LIMIT 10;
 - Specialized roles (like in marketing or healthcare) can also offer high salaries if the industry values data insights highly.
 - Remote or hybrid roles do not always mean lower pay, some are still top-tier!
 
-![Top Paying Roles](assets\Picture1.jpg)
-*Bar graph visualizing the salary for the top 10 salaries for data analysts*
+![Top Paying Roles](assets/Picture1.jpg)  
+*Bar chart showing the top 10 highest-paying roles for data analysts.*
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I combined the job postings with the skills data providing insights into what employers value for high-compensation roles.
@@ -94,8 +94,8 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 - **Tableau** comes next with a count of 6.
 - Other skills like **R**, **Snowflake**, **Pandas** and **Excel** show varying degrees of demand.
 
-![Skills Count of Top Paying Roles](assets\Picture2.jpg)
-*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts*
+![Skills Count of Top Paying Roles](assets/Picture2.jpg)  
+*Bar chart showing the number of skills required for the top 10 highest-paying data analyst roles.*
 
 ### 3. In-Demand Skills for Data Analyst
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
